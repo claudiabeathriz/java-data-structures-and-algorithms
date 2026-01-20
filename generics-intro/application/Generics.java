@@ -10,7 +10,7 @@ public class Generics {
 
         Scanner scanner = new Scanner(System.in);
 
-        PrintService ps = new PrintService();
+        PrintService<Integer> ps = new PrintService<>();
 
         System.out.print("How many values? ");
         int n = scanner.nextInt();

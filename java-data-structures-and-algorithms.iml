@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/generics-intro" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hash-code-and-equals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/stacks" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

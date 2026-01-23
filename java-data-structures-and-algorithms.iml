@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/hash-code-and-equals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/queues" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/stacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/set" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
